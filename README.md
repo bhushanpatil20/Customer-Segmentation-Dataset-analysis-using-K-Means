@@ -26,6 +26,8 @@ indicating more active transaction behavior.
 CLUSTERING MODEL EVALUATION METRICS
 
 Silhouette Score: 0.484 
+
 Davies-Bouldin Index: 0.844 
+
 Calinski-Harabasz Index: 47803.954
 
