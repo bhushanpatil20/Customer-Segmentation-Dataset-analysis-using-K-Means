@@ -1,11 +1,10 @@
 SOME INTERESTING OBSERVATIONS
 
 1. Extreme skewness still exists even after preprocessing, the mean values of CustAccountBalance and TransactionAmount (INR)
-remained much higher than their medians across all clusters. This showed me how strongly a small number of extreme values can affect statistical summaries.
-For understanding the “typical” customer, the median was much more useful than the mean.
+remained much higher than their medians across all clusters. For understanding the “typical” customer, the median was much more useful than the mean.
 
 2. Age barely differentiated the clusters: The median age across all four segments was between 27 and 29 years.
-So, in this dataset, age did not appear to be a major factor separating customer financial behavior.
+So, in this dataset, age did not appear to be a major driving factor separating customer financial behavior.
 
 3. Cluster 1 — This segment had the highest median account balance and the highest median transaction amount. 
 Median balance: ₹24,971.63
